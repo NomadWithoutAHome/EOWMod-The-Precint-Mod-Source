@@ -2,6 +2,9 @@
 
 This mod allows players to interact with civilians without facing penalties or warnings. It removes the game's restrictions on civilian damage and unauthorized actions.
 
+## Showcase
+[Video](https://www.youtube.com/watch?v=-4_lmbg3KtQ)
+
 ## Features
 
 - Removes civilian damage penalties
