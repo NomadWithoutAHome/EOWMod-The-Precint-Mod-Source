@@ -50,12 +50,3 @@ If you encounter any issues:
 
 For support or to report issues:
 - Goto [MelonLoader](https://melonwiki.xyz/#/?id=requirements)
-
-## License
-
-This mod is released under the MIT License. See the LICENSE file for details.
-
-## Credits
-
-- Created by [Your Name]
-- Special thanks to the MelonLoader team for their amazing modding framework 
