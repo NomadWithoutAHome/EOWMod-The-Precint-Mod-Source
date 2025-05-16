@@ -1,5 +1,8 @@
 # EOWMod - Civilian Harm Mod
 
+![Description of image](https://www.imghost.dohmboy64.com/i/aa8c98ee055e4aa8b1c01ed3dc7baf08.png)
+
+
 This mod allows players to interact with civilians without facing penalties or warnings. It removes the game's restrictions on civilian damage and unauthorized actions.
 
 ## Showcase
